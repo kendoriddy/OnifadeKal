@@ -42,10 +42,10 @@ input {
   border-radius: 5px;
   margin-bottom: 20px;
 }
-
-#radio {
-  display: inline-block;
+ #radio{
+  /* display: inline-block; */
   width: auto;
+  align-items: baseline;
 }
 
 #checkbox {
